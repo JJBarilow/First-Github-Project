@@ -6,5 +6,5 @@ This project is a Data Science application built using Python and Dash. It visua
 Repository Contents
 - **Capstone.py**: The main Python script that launches the Dash app. It loads the CSV data, processes it, and creates interactive visualizations.
 - **CSV files**: Datasets used by the app, containing cybersecurity incident data, vulnerability information, and compliance details.
-- **README.md**: This file, providing an overview 
+- **README.md**: This file, providing an overview of the project.
 
